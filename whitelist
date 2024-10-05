@@ -1,7 +1,1 @@
-local whitelist = {
-    "xMatti12", -- Replace with actual usernames
-    "meboughtpremium",
-    "Bob_41969",
-    "Burger_King1328",
-    "invisibleguysiamik2"
-}
+["xMatti12", "meboughtpremium", "Bob_41969", "Burger_King1328", "invisibleguysiamik2"]
